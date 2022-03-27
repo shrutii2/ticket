@@ -38,7 +38,7 @@ export const DataProvider = (props) => {
             "count":1,
             "category":"monument",
             "image":"https://tse3.mm.bing.net/th?id=OIP.XqaIsHKC9F5O_m-DPGYU4wHaHg&pid=Api&P=0&w=176&h=178",
-            "description":"•	The Mysore Palace is a famous historical monument in the city of Mysore in Karnataka.•	This palace is so grand in its proportions and beauty that it looks like it sprung out of a fairytale. The interiors of the palace are intricately designed and adorned with ornate ceilings.It is a sight not be missed with its spacious halls, lovely art paintings and Indo-Saracenic style architecture."
+            "description":"The Mysore Palace is a famous historical monument in the city of Mysore in Karnataka.•	This palace is so grand in its proportions and beauty that it looks like it sprung out of a fairytale. The interiors of the palace are intricately designed and adorned with ornate ceilings.It is a sight not be missed with its spacious halls, lovely art paintings and Indo-Saracenic style architecture."
         },
         {
             "_id":"5",
